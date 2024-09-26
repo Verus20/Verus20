@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Welcome to my profile :D
+
+🔨 I'm currently working on todo_list which is intented to be a fullstack app made with Golang and React.  
+
 <!--
 **Verus20/Verus20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
