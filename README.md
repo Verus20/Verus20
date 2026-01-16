@@ -2,7 +2,9 @@
 
 Welcome to my profile :D
 
-🔨 I'm currently working on todo_list which is intented to be a fullstack app made with NextJS and React.  
+🔨 I'm currently working on a budgeting tool which is intented to be a fullstack app made with NextJS and React.  
+
+Check it out here [Budget Bridge](https://github.com/Verus20/Budget-Bridge)
 
 <!--
 **Verus20/Verus20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
